@@ -7,7 +7,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.sp
 
 val Typography = Typography(
-        body1 = TextStyle(
+        bodyLarge = TextStyle(
                 fontFamily = FontFamily.SansSerif,
                 fontWeight = FontWeight.Normal,
                 fontSize = 16.sp
